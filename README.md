@@ -1,18 +1,32 @@
-<!---
-Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
--->
-
 <h1 align="center"> Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">AI Researcher, Open-source Contributor and Life-Long Learner</h3>
 
-<img src="Images/life long learner quotes.jpg" alt="Life Long Learner" align="center">
+<p>
+<img src="Images/life long learner quotes.jpg" alt="Life Long Learner">
+&nbsp;<b> "Sleep😴 To Program Your Subconscious Space"</b>
+</p>
+
+<p>
+  
+- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
+- Currently working with <a href="https://ezovion.com/" target="_black">Ezovion</a> as an Intern. 🏥
+- Looking for opportunities and collaborations in the field of data science. ✅
+- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+- Planning to Blog in the near future. 📝
+</p>
 
 <h3 align="left">Interests:</h3>
-- Data Science
-- Data Structures And Algorithms
-- Database
+
+- Data Science 📊
+- Data Structures And Algorithms 💻
+- Database 
+
+<h3 align="left">Languages:</h3>
+
+- English 🔤
+- Tamil
+
 
 **Tech Toolbox🧰**<br>
 <p align="left">
@@ -40,7 +54,7 @@ or use it. It helps me a lot.
   
 ## &#x1f4c8; My GitHub Stats🎯
  
-<h3 align="left">Profile Views:</h3>
+<h3 align="left">Profile Views: 🧐</h3>
 <img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
