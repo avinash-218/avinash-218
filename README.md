@@ -2,10 +2,8 @@
 
 <h3 align="center">AI Researcher, Open-source Contributor and Life-Long Learner</h3>
 
-<p>
 <img src="Images/life long learner quotes.jpg" alt="Life Long Learner">
-&nbsp;<b> "Sleep😴 To Program Your Subconscious Space"</b>
-</p>
+<b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <p>
   
