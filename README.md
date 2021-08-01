@@ -14,6 +14,10 @@
 - Planning to Blog in the near future. 📝
 </p>
 
+<p>
+Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio/" target="_blank"> https://avinash-218.github.io/avinash-portfolio/</a>
+</p>
+
 <h3 align="left">Interests:</h3>
 
 - Data Science 📊
