@@ -52,8 +52,7 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio/" target="_b
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="Images/TensorFlow.png" alt="tensorflow" width="40" height="40"/> </a>
   
-**Open Source Projects-Open for Contributions🥇**<br>
-**Open Source Contributor in GWOC '21**<br>
+**Open Source Contributor in GWOC '21🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
 
   
