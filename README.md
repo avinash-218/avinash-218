@@ -53,6 +53,9 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio/" target="_b
 <a href="https://www.tensorflow.org" target="_blank"> <img src="Images/TensorFlow.png" alt="tensorflow" width="40" height="40"/> </a>
   
 **Open Source Projects-Open for Contributions🥇**<br>
+**Contributor in GWOC '21**<br>
+<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge">
+
   
 ## &#x1f4c8; My GitHub Stats🎯
  
