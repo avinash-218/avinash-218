@@ -54,7 +54,7 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio/" target="_b
   
 **Open Source Projects-Open for Contributions🥇**<br>
 **Contributor in GWOC '21**<br>
-<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge">
+<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="40" height="40">
 
   
 ## &#x1f4c8; My GitHub Stats🎯
