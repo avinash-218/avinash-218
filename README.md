@@ -54,6 +54,9 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio/" target="_b
   
 **Open Source Contributor in GWOC '21🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
+  
+# Awards & Achievements:
+  - 58th Rank in Hexaware Data Science Challenge - TechGig
 
   
 ## &#x1f4c8; My GitHub Stats🎯
