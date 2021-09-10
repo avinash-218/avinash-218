@@ -95,6 +95,3 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 <a href="https://www.hackerearth.com/@ravinash218" target="blank"><img align="center" src="Images/hackerearth.png" alt="Hacker Earth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11452026/avinash?tab=profile" target="blank"><img src="Images/Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="30" width="40"></a>
 </p>
-
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
