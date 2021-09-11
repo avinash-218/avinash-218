@@ -94,6 +94,7 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 <a href="https://www.hackerrank.com/ravinash21801" target="blank"><img align="center" src="Images/HR.png" alt="Hacker Rank" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ravinash218" target="blank"><img align="center" src="Images/hackerearth.png" alt="Hacker Earth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11452026/avinash?tab=profile" target="blank"><img src="Images/Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="30" width="40"></a>
+<a href="https://wandb.ai/avinash-218" target="blank"><img src="Images/w_and_b.png" alt="Weights & Bias" height="30" width="40"></a>
 </p>
   
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
