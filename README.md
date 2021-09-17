@@ -62,7 +62,7 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 ## &#x1f4c8; My GitHub Stats🎯
  
 <h3 align="left">Profile Views: 🧐</h3>
-<img width="20%" src="https://profile-counter.glitch.me/%7BGitHub-Profile%7D/count.svg" /> 
+![Profile views](https://gpvc.arturio.dev/avinash-218)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -98,6 +98,3 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 </p>
   
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-
-
-![Profile views](https://gpvc.arturio.dev/avinash-218)
