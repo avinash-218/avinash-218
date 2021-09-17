@@ -5,6 +5,8 @@
 <img src="Images/life long learner quotes.jpg" alt="Life Long Learner">
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
+<img width="40%" align="right" alt="Github" src="Images/git-header.svg" />
+
 <p>
   
 - Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
