@@ -98,3 +98,6 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 </p>
   
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
+
+![](https://raw.githubusercontent.com/avinash-218/github-stats-transparent/output/generated/overview.svg)
