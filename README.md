@@ -62,6 +62,7 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 ## &#x1f4c8; My GitHub Stats🎯
  
 <h3 align="left">Profile Views: 🧐</h3>
+  
 ![Profile views](https://gpvc.arturio.dev/avinash-218)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
