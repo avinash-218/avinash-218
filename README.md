@@ -100,4 +100,4 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 
-![Profile views](https://gpvc.arturio.dev/avinash-218
+![Profile views](https://gpvc.arturio.dev/avinash-218)
