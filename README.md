@@ -101,3 +101,4 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 
 
 ![](https://raw.githubusercontent.com/avinash-218/github-stats-transparent/output/generated/overview.svg)
+![](https://github.com/avinash-218/github-stats/blob/master/generated/overview.svg)
