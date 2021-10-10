@@ -1,11 +1,11 @@
 <h1 align="center"> Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Researcher, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
-<img src="Images/life long learner quotes.jpg" alt="Life Long Learner">
+<img width="40%" src="Images/life long learner quotes.jpg" alt="Life Long Learner" align="right">
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
-<img width="40%" align="right" alt="Github" src="Images/git-header.svg" />
+<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <p>
   
