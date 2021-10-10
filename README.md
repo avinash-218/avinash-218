@@ -2,7 +2,8 @@
 
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
-<img width="40%" src="Images/life long learner quotes.jpg" alt="Life Long Learner" align="right">
+<img src="Images/life long learner quotes.jpg" alt="Life Long Learner" >
+<br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
@@ -19,6 +20,8 @@
 <p>
 Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="_blank"> https://avinash-218.github.io/avinash-portfolio/</a>
 </p>
+
+<img width="40%" align="right" alt="Github Header" src="Images/coding.gif" />
 
 <h3 align="left">Interests:</h3>
 
