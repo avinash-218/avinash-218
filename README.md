@@ -60,8 +60,10 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 **Open Source Contributor in GWOC '21🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
   
-# Co-Curriculars :
+# Achievements :
   - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
+  - Eligible for Seed-Funding from Mepco Schlenk Engineering College
+  - Got selected to meet-up with Angel Investors.
 
   
 ## &#x1f4c8; My GitHub Stats🎯
