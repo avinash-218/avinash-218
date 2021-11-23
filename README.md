@@ -57,8 +57,9 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="Images/TensorFlow.png" alt="tensorflow" width="40" height="40"/> </a>
   
-**Open Source Contributor in GWOC '21🥇**<br>
+**Badges🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
+<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
   
 # Achievements :
   - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
