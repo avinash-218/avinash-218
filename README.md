@@ -60,6 +60,7 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 **Badges🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
 <img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
+<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
   
 # Achievements :
   - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
