@@ -11,7 +11,7 @@
 <p>
   
 - Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://ezovion.com/" target="_black">Ezovion</a> as an Intern. 🏥
+- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Planning to Blog in the near future. 📝
