@@ -2,6 +2,7 @@
 
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
+## Dynamic Quotes 📜:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
 
 <br>
