@@ -25,7 +25,7 @@
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
-<img width="40%" align="right" alt="Github Header" src="Images/coding.gif" />
+<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
 <h3 align="left">Interests:</h3>
 
