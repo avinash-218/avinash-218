@@ -2,7 +2,8 @@
 
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
-<img src="Images/life long learner quotes.jpg" alt="Life Long Learner" >
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
@@ -36,8 +37,13 @@
 - English 🔤
 - Tamil
 
+<br><br>
 
-**Tech Toolbox🧰**<br>
+## **Tech Toolbox🧰**<br>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="Images/C.png" alt="c" width="40" height="40"/> </a>
 <a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="Images/C++.png" alt="C++" width="40" height="40"/> </a>
@@ -115,8 +121,14 @@
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ravinash218)
 <br><br>
   
-## Just a Snake Eating away my Contributions...😭
+## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
