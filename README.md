@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
@@ -94,19 +94,27 @@ Portfolio :<a href="https://avinash-218.github.io/avinash-portfolio-2/" target="
 </p>  
 
 <a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/" target="_blank"> <img src="Images/Github.png" alt="GitHub" width="40" height="40"/>
-<a href="https://www.kaggle.com/ravinash218"target="blank"><img align="center" src="Images/kaggle-logo-transparent-300.png" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://dev.to/avinash218" target="blank"><img align="center" src="Images/dev.jpg" alt="Dev" height="30" width="40" /></a>
-<a href="http://www.linkedin.com/in/avinash-r-2113741b1" target="blank"><img align="center" src="Images/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ravinash/" target="blank"><img align="center" src="Images/Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@ravinash218" target="blank"><img align="center" src="Images/medium.jpg" alt="Medium" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ravinash21801" target="blank"><img align="center" src="Images/HR.png" alt="Hacker Rank" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ravinash218" target="blank"><img align="center" src="Images/hackerearth.png" alt="Hacker Earth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11452026/avinash?tab=profile" target="blank"><img src="Images/Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="30" width="40"></a>
-<a href="https://wandb.ai/avinash-218" target="blank"><img src="Images/w_and_b.png" alt="Weights & Bias" height="30" width="40"></a>
-</p>
   
+
+<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<div>
+<h2  > Connect with me</h2>
+
+[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
+<br><br>
+[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
+<br><br>
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+<br><br>
+[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
+<br><br>
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ravinash218)
+<br><br>
+[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
+<br><br>
+  
+## Just a Snake Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
