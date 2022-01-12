@@ -19,8 +19,8 @@
 
 <div align="center">
 
-### **Scan Me**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="assets/qrcode_hrugved06.github.io.png" width="200" height="200" alt="WebsiteQR"></a>
+## **Scan Me**
+<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 </div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding.gif" />
@@ -98,7 +98,7 @@
 <a href="https://gitstalk.netlify.app/avinash-218/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
   
