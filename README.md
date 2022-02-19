@@ -16,7 +16,7 @@
 - Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
 - Looking for opportunities and collaborations in the field of data science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Planning to Blog in the near future. 📝
+- Technical Blogger 📝
 </p>
 
 <div align="center">
@@ -76,6 +76,10 @@
   - Eligible for Seed-Funding from Mepco Schlenk Engineering College
   - Got selected to meet-up with Angel Investors.
 
+# Blogs :
+|Title|Links|
+|:---:|:---:|
+|Rain Prediction in Australia - Decision Tree|<a href="https://hashnode.com/post/rain-prediction-in-australia-decision-tree-ckzsxgon30031d4s13ur6hjiq">Hashnode</a><br><a href="https://dev.to/avinash218/rain-prediction-in-australia-decision-tree-1b57">Dev</a>|
   
 ## &#x1f4c8; My GitHub Stats🎯
  
