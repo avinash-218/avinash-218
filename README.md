@@ -81,6 +81,7 @@
 |Rain Prediction in Australia - Decision Tree|<a href="https://hashnode.com/post/rain-prediction-in-australia-decision-tree-ckzsxgon30031d4s13ur6hjiq">Hashnode</a><br><a href="https://dev.to/avinash218/rain-prediction-in-australia-decision-tree-1b57">Dev</a>|
 |Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>|
 |ANN Vs ANN + Feature Extractin Vs CNN on Image Dataset|<a href="https://hashnode.com/post/why-cnn-is-preferred-for-image-data-cl5wq6bvh0031zxnv02ayh7oh">Hashnode</a>|
+|Semi-Supervised Learning|<a href="https://hashnode.com/post/semi-supervised-learning-cl5xi1qzb02qvzxnv4jx9cld9">Hashnode</a>|
   
 ## &#x1f4c8; My GitHub Stats🎯
  
