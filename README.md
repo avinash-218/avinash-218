@@ -82,9 +82,12 @@
 |Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>|
 |ANN Vs ANN + Feature Extractin Vs CNN on Image Dataset|<a href="https://hashnode.com/post/why-cnn-is-preferred-for-image-data-cl5wq6bvh0031zxnv02ayh7oh">Hashnode</a>|
 |Semi-Supervised Learning|<a href="https://hashnode.com/post/semi-supervised-learning-cl5xi1qzb02qvzxnv4jx9cld9">Hashnode</a>|
+
+## Hot Repo🔥
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Playground)](https://github.com/avinash-218/Computational-Intelligence-Concepts)
+
   
 ## &#x1f4c8; My GitHub Stats🎯
- 
 <h3 align="left">Profile Views: 🧐</h3>
   
 ![Profile views](https://gpvc.arturio.dev/avinash-218)
