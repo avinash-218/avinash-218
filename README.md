@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Machine Learning Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 ## Dynamic Quotes 📜:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
@@ -13,7 +13,7 @@
 <p>
   
 - Computer Science & Engineering - Final year @ Mepco Schlenk Engineering College. 🎓
-- Looking for opportunities and collaborations in the field of data science. ✅
+- Looking for opportunities and collaborations in the field of Machine Learning / Data Science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Technical Blogger 📝
 </p>
