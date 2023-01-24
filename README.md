@@ -1,9 +1,9 @@
-<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+Avinash&center=true&width=500&height=50"></a></p>
 
-<h3 align="center">Machine Learning Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Open-Source Contributer;Life-Long+Learner&center=true&width=500&height=50"></a></p>
 
 ## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+![Quote Unavailable Currently](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
@@ -71,12 +71,12 @@
 <img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
 <img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
   
-# Achievements :
+## Achievements :
   - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
   - Eligible for Seed-Funding from Mepco Schlenk Engineering College
   - Got selected to meet-up with Angel Investors.
 
-# Blogs :
+## Blogs :
 |Title|Links|
 |:---:|:---:|
 |Rain Prediction in Australia - Decision Tree|<a href="https://hashnode.com/post/rain-prediction-in-australia-decision-tree-ckzsxgon30031d4s13ur6hjiq">Hashnode</a><br><a href="https://dev.to/avinash218/rain-prediction-in-australia-decision-tree-1b57">Dev</a>|
@@ -120,13 +120,12 @@
 <h2  > Connect with me</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-thebadge&logo=AngelList&logoColor=black" />](https://angel.co/u/avinash-r-23)
 <br><br>
 [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
-<br><br>
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
 <br><br>
 [<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
-<br><br>
 [<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
 <br><br>
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@avinash-218)
