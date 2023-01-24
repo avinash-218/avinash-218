@@ -1,11 +1,5 @@
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+Avinash;Machine+Learning+Enthusiast;Open-Source Contributer;Life-Long+Learner&center=true&width=500&height=50"></a>
-</p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there,+I'm+Avinash;Machine+Learning+Enthusiast;Open-Source Contributer;Life-Long+Learner&center=true&width=500&height=50"></a></p>
 
-## Dynamic Quotes 📜:
-![Quote Unavailable Currently](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
-
-<br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
