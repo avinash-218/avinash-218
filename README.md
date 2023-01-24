@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Avinash ! </h2>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Open-Source Contributer;Life-Long+Learner&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Life-Long+Learner&center=true&width=500&height=50"></a>
 </p>
 
 
