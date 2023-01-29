@@ -2,6 +2,9 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Avinash!;ML+Enthusiast.+Life-Long+Learner.&center=true&width=500&height=50"></a>
 </p>
 
+## Hot Repo🔥
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Playground)](https://github.com/avinash-218/AI-Playground)
+
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
@@ -79,9 +82,6 @@
 |Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>|
 |ANN Vs ANN + Feature Extractin Vs CNN on Image Dataset|<a href="https://hashnode.com/post/why-cnn-is-preferred-for-image-data-cl5wq6bvh0031zxnv02ayh7oh">Hashnode</a>|
 |Semi-Supervised Learning|<a href="https://hashnode.com/post/semi-supervised-learning-cl5xi1qzb02qvzxnv4jx9cld9">Hashnode</a>|
-
-## Hot Repo🔥
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Playground)](https://github.com/avinash-218/AI-Playground)
 
   
 ## &#x1f4c8; My GitHub Stats🎯
