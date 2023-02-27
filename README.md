@@ -28,10 +28,9 @@
 
 <h3 align="left">Interests:</h3>
 
+- Machine Learning 👾
 - Artificial Intelligence 🤖
 - Data Science 📊
-- Data Structures And Algorithms 💻
-- Database 🗄️
 
 <h3 align="left">Languages:</h3>
 
