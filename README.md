@@ -18,24 +18,14 @@
 - Technical Blogger 📝
 </p>
 
-<div align="center">
-
-## **Resume**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf">Resume</a>
-
-[Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf) <i class="fa-solid fa-file"></i>
-
-<i class="fas fa-file-pdf"></i> [Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf)
-
-[Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf) 
-<i class="fas fa-file-pdf"></i>
-
-
 
 <div align="center">
 
-## **Scan to fly through my Portfolio**
+## **Scan To Fly Through My Portfolio**
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
+
+## 👉 [Check Out My Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf) 👈
+
 </div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
