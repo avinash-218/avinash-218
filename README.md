@@ -20,6 +20,12 @@
 
 <div align="center">
 
+## **Resume**
+Check out [my resume <i class="fas fa-file-pdf"></i>](http://example.com/resume.pdf) to learn more about my qualifications and experience!
+
+
+<div align="center">
+
 ## **Scan to fly through my Portfolio**
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 </div>
@@ -115,7 +121,7 @@
 <div>
 <h2  > Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/avinash218/)
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-thebadge&logo=AngelList&logoColor=black" />](https://angel.co/u/avinash-r-23)
 <br><br>
 [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)
