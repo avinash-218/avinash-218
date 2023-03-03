@@ -21,7 +21,15 @@
 <div align="center">
 
 ## **Resume**
-Check out [my resume <i class="fas fa-file-pdf"></i>](http://example.com/resume.pdf) to learn more about my qualifications and experience!
+<a href="https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf">Resume</a>
+
+[Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf) <i class="fa-solid fa-file"></i>
+
+<i class="fas fa-file-pdf"></i> [Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf)
+
+[Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf) 
+<i class="fas fa-file-pdf"></i>
+
 
 
 <div align="center">
