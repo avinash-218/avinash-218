@@ -24,7 +24,7 @@
 ## **Scan To Fly Through My Portfolio**
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 
-## 👉 [Check Out My Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Latex_Resume.pdf) 👈
+## 👉 [Check Out My Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Avinash_Resume.pdf) 👈
 
 </div>
 
