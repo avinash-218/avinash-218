@@ -12,7 +12,7 @@
 
 <p>
   
-- Computer Science & Engineering - Final year @ Mepco Schlenk Engineering College. 🎓
+- Computer Science & Engineering Graduate from Mepco Schlenk Engineering College (2023). 🎓
 - Looking for opportunities and collaborations in the field of Machine Learning / Data Science. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Technical Blogger 📝
