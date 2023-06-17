@@ -12,10 +12,11 @@
 
 <p>
   
-- Computer Science & Engineering Graduate from Mepco Schlenk Engineering College (2023). 🎓
-- Looking for opportunities and collaborations in the field of Machine Learning / Data Science. ✅
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Technical Blogger 📝
+- Machine Learning Engineer (Intern) | Founding Team Member.
+- Looking for opportunities and collaborations in the field of Machine Learning & Artificial Intelligence. ✅
+- Seeking opportunities to work in a startup environment where I can uphold myself & the team. 💪
+- Technical Blogger. 📝
+- Objective: Seeking a job in more challenging and healthy work environment where I can utilize and enhance my skills and knowledge for organizational growth and commit myself to an organization.
 </p>
 
 
@@ -68,6 +69,8 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws"/> </a>
+
   
 ## **Badges🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
