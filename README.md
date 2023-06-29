@@ -14,7 +14,7 @@
   
 - Machine Learning Engineer (Intern) @ [Augrade](https://www.augrade.com/).
 - Looking for opportunities and collaborations in the field of Machine Learning & Artificial Intelligence. ✅
-- Seeking opportunities to work in a startup environment where I can uphold myself & the team. 💪
+- Seeking opportunities to work in an energetic environment where I can uphold myself & the team. 💪
 - Technical Blogger. 📝
 - Objective: Seeking a job in more challenging and healthy work environment where I can utilize and enhance my skills and knowledge for organizational growth and commit myself to an organization.
 </p>
@@ -25,7 +25,6 @@
 ## **Scan To Fly Through My Portfolio**
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 
-## 👉 [Check Out My Resume](https://avinash-218.github.io/avinash-portfolio-2/Resume/Avinash_Resume.pdf) 👈
 
 </div>
 
