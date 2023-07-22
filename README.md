@@ -84,10 +84,11 @@
 ## Blogs :
 |Title|Links|
 |:---:|:---:|
-|Rain Prediction in Australia - Decision Tree|<a href="https://hashnode.com/post/rain-prediction-in-australia-decision-tree-ckzsxgon30031d4s13ur6hjiq">Hashnode</a><br><a href="https://dev.to/avinash218/rain-prediction-in-australia-decision-tree-1b57">Dev</a>|
+|Rain Prediction in Australia - Decision Tree|<a href="https://avinash-218.hashnode.dev/rain-prediction-in-australia-decision-tree">Hashnode</a>|
 |Stationarity Analysis in Time Series Data|<a href="https://geekycodes.in/stationarity-analysis-in-time-series-data/">GeekyCodes</a>|
-|ANN Vs ANN + Feature Extractin Vs CNN on Image Dataset|<a href="https://hashnode.com/post/why-cnn-is-preferred-for-image-data-cl5wq6bvh0031zxnv02ayh7oh">Hashnode</a>|
-|Semi-Supervised Learning|<a href="https://hashnode.com/post/semi-supervised-learning-cl5xi1qzb02qvzxnv4jx9cld9">Hashnode</a>|
+|Why CNN is preferred for Image Data|<a href="https://avinash-218.hashnode.dev/why-cnn-is-preferred-for-image-data">Hashnode</a>|
+|Semi-Supervised Learning|<a href="https://avinash-218.hashnode.dev/semi-supervised-learning">Hashnode</a>|
+|AWS Tricks and Tips: Streamlining Your Workflow for Productivity|<a href="https://avinash-218.hashnode.dev/aws-tricks-and-tips-streamlining-your-workflow-for-productivity">Hashnode</a>|
 
   
 ## &#x1f4c8; My GitHub Stats🎯
@@ -130,7 +131,7 @@
 [<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)
 [<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)
 <br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@avinash-218)
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://avinash-218.hashnode.dev/)
 <br><br>
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
