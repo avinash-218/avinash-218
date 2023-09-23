@@ -12,7 +12,7 @@
 
 <p>
   
-- Machine Learning Engineer (Intern) @ [Augrade](https://www.augrade.com/).
+- Machine Learning Engineer @ [Augrade](https://www.augrade.com/).
 - Looking for opportunities and collaborations in the field of Machine Learning & Artificial Intelligence. ✅
 - Seeking opportunities to work in an energetic environment where I can uphold myself & the team. 💪
 - Technical Blogger. 📝
