@@ -2,18 +2,18 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Avinash!;ML+Enthusiast.+Life-Long+Learner.&center=true&width=500&height=50"></a>
 </p>
 
-## Hot Repo🔥
+## Hot Repos🔥
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=Cuda_Programming)](https://github.com/avinash-218/Cuda_Programming)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Playground)](https://github.com/avinash-218/AI-Playground)
-
-
+<hr>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
 
 <p>
   
-- Machine Learning Engineer @ [Augrade](https://www.augrade.com/).
-- Looking for opportunities and collaborations in the field of Machine Learning & Artificial Intelligence. ✅
+- Software Engineer - Machine Learning @ [Augrade](https://www.augrade.com/).
+- Looking for opportunities and collaborations in the field of Heterogeneous Parallel Computing, AI & ML. ✅
 - Seeking opportunities to work in an energetic environment where I can uphold myself & the team. 💪
 - Technical Blogger. 📝
 - Objective: Seeking a job in more challenging and healthy work environment where I can utilize and enhance my skills and knowledge for organizational growth and commit myself to an organization.
@@ -32,6 +32,7 @@
 
 <h3 align="left">Interests:</h3>
 
+- CUDA Programming
 - Machine Learning 👾
 - Artificial Intelligence 🤖
 - Data Science 📊
@@ -49,6 +50,7 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align="left">
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"> <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="cuda"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
 <a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
@@ -77,7 +79,6 @@
 <img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
   
 ## Achievements :
-  - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
   - Eligible for Seed-Funding from Mepco Schlenk Engineering College
   - Got selected to meet-up with Angel Investors.
 
