@@ -4,7 +4,7 @@
 
 ## Hot Repos🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=Cuda_Programming)](https://github.com/avinash-218/Cuda_Programming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Playground)](https://github.com/avinash-218/AI-Playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Visionary-Lab)](https://github.com/avinash-218/AI-Visionary-Lab)
 <hr>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
