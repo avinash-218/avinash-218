@@ -15,7 +15,7 @@
 <p>
   
 - Machine Learning Engineer @ [Entropik](https://www.entropik.io/).
-- Looking for opportunities and collaborations in the field of Heterogeneous Parallel Computing and AI. ✅
+- Looking for opportunities and collaborations in the field of Heterogeneous Parallel Programming and AI. ✅
 - Technical Blogger. 📝
 </p>
 
