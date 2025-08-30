@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Avinash!;ML+Enthusiast.+Life-Long+Learner.&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Avinash!;AI+Enthusiast.+Life-Long+Learner.&center=true&width=500&height=50"></a>
 </p>
 
 ## Hot Repos🔥
@@ -14,18 +14,16 @@
 
 <p>
   
-- Software Engineer - Machine Learning @ [Augrade](https://www.augrade.com/).
-- Looking for opportunities and collaborations in the field of Heterogeneous Parallel Computing, AI & ML. ✅
-- Seeking opportunities to work in an energetic environment where I can uphold myself & the team. 💪
+- Machine Learning Engineer @ [Entropik](https://www.entropik.io/).
+- Looking for opportunities and collaborations in the field of Heterogeneous Parallel Computing and AI. ✅
 - Technical Blogger. 📝
-- Objective: Seeking a job in more challenging and healthy work environment where I can utilize and enhance my skills and knowledge for organizational growth and commit myself to an organization.
 </p>
 
 
 <div align="center">
 
 ## **Scan To Fly Through My Portfolio**
-<a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
+<a href="https://avinash-218.netlify.app/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
 
 
 </div>
@@ -34,15 +32,9 @@
 
 <h3 align="left">Interests:</h3>
 
-- CUDA Programming
-- Machine Learning 👾
+- Heterogeneous Parallel Programming
 - Artificial Intelligence 🤖
-- Data Science 📊
-
-<h3 align="left">Languages:</h3>
-
-- English 🔤
-- Tamil
+- Generative AI
 
 <br><br>
 
@@ -80,10 +72,6 @@
 <img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
 <img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
   
-## Achievements :
-  - Eligible for Seed-Funding from Mepco Schlenk Engineering College
-  - Got selected to meet-up with Angel Investors.
-
 ## Blogs :
 |Title|Links|
 |:---:|:---:|
@@ -98,13 +86,13 @@
 ## &#x1f4c8; My GitHub Stats🎯
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+![Profile views](https://komarev.com/ghpvc/?username=avinash-218&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-218" /></p>
 </details>
 
   
