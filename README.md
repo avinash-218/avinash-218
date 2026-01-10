@@ -33,6 +33,14 @@
 
 <br><br>
 
+## Hot Repos🔥
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Linguist-Playground)](https://github.com/avinash-218/AI-Linguist-Playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AgenticMind)](https://github.com/avinash-218/AgenticMind)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=Heterogeneous-Parallel-Programming)](https://github.com/avinash-218/Heterogeneous-Parallel-Programming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avinash-218&repo=AI-Visionary-Lab)](https://github.com/avinash-218/AI-Visionary-Lab)
+<hr>
+
+<br><br>
 ## **Tech Toolbox🧰**<br>
 
 <p align='center'>
@@ -76,6 +84,7 @@
 |Semi-Supervised Learning|<a href="https://avinash-218.hashnode.dev/semi-supervised-learning">Hashnode</a>|
 |AWS Tricks and Tips: Streamlining Your Workflow for Productivity|<a href="https://avinash-218.hashnode.dev/aws-tricks-and-tips-streamlining-your-workflow-for-productivity">Hashnode</a>|
 |Unifying Deep Learning Models: Deploying TensorFlow and PyTorch Together with ONNX and ONNX Runtime|<a href="https://avinash-218.hashnode.dev/unifying-deep-learning-models-deploying-tensorflow-and-pytorch-together-with-onnx-and-onnx-runtime">Hashnode</a>|
+|The Grand Illusionist: Why LLMs Don't Think (Yet) – And Where Real AI Begins|<a href="https://avinash-218.hashnode.dev/the-grand-illusionist-why-llms-dont-think-yet-and-where-real-ai-begins">Hashnode</a>|
 
   
 ## &#x1f4c8; My GitHub Stats🎯
@@ -83,8 +92,6 @@
   
 ![Profile views](https://komarev.com/ghpvc/?username=avinash-218&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
 <details><summary>Contribution Graph</summary>
 <p align="left">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-218" /></p>
